@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Smart ATM",
+  "description": "A high-end, AI-powered ATM simulator featuring a secure workflow, transaction history, and an integrated Gemini-powered banking assistant for financial inquiries.",
+  "requestFramePermissions": []
+}
